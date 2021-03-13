@@ -1,4 +1,4 @@
-# Enter your code here. Read input from STDIN. Print output to STDOUT
+# Using counter to find the frequence of elements in a list
 import collections
 
 k,arr = int(input()),list(map(int, input().split()))
