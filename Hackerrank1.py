@@ -1,6 +1,6 @@
 # Using counter to find the frequence of elements in a list
 import collections
-
+# Testing
 k,arr = int(input()),list(map(int, input().split()))
 
 counter = collections.Counter(arr)
